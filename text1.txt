@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Noi dung text 1 Nhanh A
+=======
+Noi dung text 1 Nhanh B
+>>>>>>> NhanhB
 
 Hello 1
